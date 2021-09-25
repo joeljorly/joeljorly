@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; I am a 4th student pursuing a bachelor's degree in Computer Science & Engineering.
 - 🔭 &nbsp; I’m currently exploring different concepts in Machine Learning & Data Science
-- ✍️ &nbsp; I have a Medium blog page where I write articles on Machine Learning as well as other technologies ; https://jorlyjoel.medium.com/
+- ✍️ &nbsp; I have a Medium blog page where I write articles on Machine Learning as well as other technologies ; https://jorlyjoel.medium.com/ <br>
 
 
 - ☕ &nbsp; I have published multiple articles on platforms such as ANALYTICS VIDHYA and AI IN PLAIN ENGLISH
