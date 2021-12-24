@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Joel <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/>
+
+Thank you for visiting my profile.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
