@@ -5,7 +5,7 @@ Thank you for visiting my profile.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I am a 4th year student pursuing a bachelor's degree with honors in Computer Science & Engineering.
+- 🎓 &nbsp; I am a tech enthusiast interested in all things related to Computer Science & Engineering.
 
 - 🔭 &nbsp; I’m currently exploring different concepts in Machine Learning & Data Science
 
