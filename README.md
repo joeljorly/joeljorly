@@ -1,42 +1,54 @@
-<h2> Hey there! I'm Joel <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+# Hi, I'm Joel Jorly 👋
 
-Thank you for visiting my profile.
+**Software Engineer · MCS Student @ Adelaide University · President @ MiTSA**
 
-<h3> 👨🏻‍💻 About Me </h3>
+Adelaide, SA 🇦🇺 &nbsp;|&nbsp; Grew up in Dubai, UAE 🇦🇪
 
-- 🎓 &nbsp; I am a tech enthusiast interested in all things related to Computer Science & Engineering.
+---
 
-- 🔭 &nbsp; I’m currently exploring different concepts in Machine Learning & Data Science
+### 👨🏻‍💻 About Me
 
-- ✍️ &nbsp; I have a Medium blog page where I write articles on Machine Learning as well as other technologies ; https://jorlyjoel.medium.com/ 
+- 🎓 &nbsp; Pursuing a **Master of Computer Science** at Adelaide University (GPA: 6.125/7.0)
+- 💼 &nbsp; 2.5+ years of professional experience as a **Software Engineer** - full-stack, enterprise-scale systems
+- 🏛️ &nbsp; Serving as **President of MiTSA**, representing 500+ postgraduate tech students at Adelaide University
+- 🔬 &nbsp; Currently building **DocNet** - a professional networking platform for medical professionals in South Australia
+- ✍️ &nbsp; I write about ML and tech on **[Medium](https://medium.com/@jorlyjoel)** - published in Analytics Vidhya & AI in Plain English
+- 🌱 &nbsp; Expanding into **test automation** - currently learning Playwright and Cypress
 
-- 🌱 &nbsp; I am also interested in the Web Development domain, especially Front-End development
+---
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech & Tools
 
-- 💻 &nbsp; Python | Java | C  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-<br>
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeljorly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="joeljorly's Github Stats">
+### 🏆 Highlights
 
-</br>
+- 🥇 &nbsp; **National-Level Case Study Finalist** - Utthaan '22, IIT Bhubaneswar (Top 5 nationally)
+- 📄 &nbsp; **Most Promising Research Paper** - ICT Academy Kerala State Conclave 2021
+- 🏅 &nbsp; **Best Design Project Award** - Mantra 2021, FISAT
+- 🎓 &nbsp; **Global Citizens Scholar (30%)** - Adelaide University, 2025
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljorly&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joeljorly/github-readme-stats)
+---
 
+### 📌 Featured Projects
 
-<h3> 🤝🏻 Connect with Me </h3>
+- 🏥 &nbsp; **[DocNet](https://github.com/joeljorly)** - Professional networking platform for SA medical professionals *(In Progress)*
+- 🤖 &nbsp; **Multilingual Cyberbullying Detection** - Award-winning ML system for Malayalam social media (SVM, XGBoost, Naive Bayes)
+- 🏸 &nbsp; **Small Object Detection & Tracking** - Custom CNN architecture for high-speed object tracking in sports footage
 
-<p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/joeljorly/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:jorlyjoel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+---
 
-<p> 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
-</p>
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joeljorly)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jorlyjoel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jorlyjoel@gmail.com)
