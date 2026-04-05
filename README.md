@@ -41,7 +41,7 @@ Adelaide, SA 🇦🇺 &nbsp;|&nbsp; Grew up in Dubai, UAE 🇦🇪
 
 ### 📌 Featured Projects
 
-- 🏥 &nbsp; **[DocNet](https://github.com/joeljorly)** - Professional networking platform for SA medical professionals *(In Progress)*
+- 🏥 &nbsp; **DocNet** - Professional networking platform for SA medical professionals *(In Progress)*
 - 🤖 &nbsp; **Multilingual Cyberbullying Detection** - Award-winning ML system for Malayalam social media (SVM, XGBoost, Naive Bayes)
 - 🏸 &nbsp; **Small Object Detection & Tracking** - Custom CNN architecture for high-speed object tracking in sports footage
 
