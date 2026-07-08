@@ -8,7 +8,7 @@ Adelaide, SA 🇦🇺 &nbsp;|&nbsp; Grew up in Dubai, UAE 🇦🇪
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 &nbsp; Pursuing a **Master of Computer Science** at Adelaide University (GPA: 6.125/7.0)
+- 🎓 &nbsp; Pursuing a **Master of Computer Science** at Adelaide University (GPA: 6.25/7.0)
 - 💼 &nbsp; 2.5+ years of professional experience as a **Software Engineer** - full-stack, enterprise-scale systems
 - 🏛️ &nbsp; Serving as **President of MiTSA**, representing 500+ postgraduate tech students at Adelaide University
 - 🔬 &nbsp; Currently building **DocNet** - a professional networking platform for medical professionals in South Australia
